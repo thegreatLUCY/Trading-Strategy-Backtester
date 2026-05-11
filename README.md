@@ -26,17 +26,17 @@ A browser-based trading-strategy backtester. Write strategies in JavaScript, run
 
 ## Screenshots
 
-### Strategy mode running a 10/30 SMA crossover on BTC/USDT
-
-![SMA crossover on real BTC data](docs/screenshots/strategy-mode.png)
-
-### Manual mode — click bars to enter trades
+### Manual mode — click bars to enter trades and watch the equity curve respond
 
 ![Manual mode](docs/screenshots/manual-mode.png)
 
-### Parameter sliders auto-rendered from the strategy
+### Strategy editor with auto-generated parameter sliders
 
 ![Parameter sliders](docs/screenshots/params.png)
+
+### Live performance metrics and trade log
+
+![Performance panel](docs/screenshots/performance.png)
 
 ---
 
