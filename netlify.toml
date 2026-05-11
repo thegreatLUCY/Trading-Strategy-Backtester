@@ -1,0 +1,13 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# SPA fallback — for now we have no routes, but this keeps refreshes safe
+# if you ever add client-side routing.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
