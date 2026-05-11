@@ -2,7 +2,7 @@
 
 A browser-based trading-strategy backtester. Write strategies in JavaScript, run them against real or synthetic market data, see the results as candle charts, an equity curve, and the standard quant-finance performance stats.
 
-> **Live demo:** _add your Netlify URL here once deployed_
+> **Live demo:** trading-strategy-backtester.netlify.app
 
 ![Backtester — main view](docs/screenshots/main.png)
 
